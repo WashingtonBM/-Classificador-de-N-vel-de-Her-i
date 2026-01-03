@@ -57,7 +57,7 @@ for (let i = 0; i < niveis.length; i++) {
 if (!nivel) nivel = "Radiante";
 
 // Saída
-console.log(`O Herói de nome ${nome} está no nível de ${nivel}`);
+console.log(`O Herói de nome ${nome} está no nível de ${nivel}`)
 
 
 
